@@ -1,2 +1,2 @@
 # Superstore-Demand-forecasting
-Excel-based forecasting &amp; inventory project to showcase supply chain analytics.
+This project demonstrates Excel-based time-series forecasting and an inventory simulation approach.
